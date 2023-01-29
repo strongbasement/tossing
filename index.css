@@ -1,0 +1,26 @@
+body
+{
+    background-color: coral;
+}
+.img1
+{
+    width: 730px;
+    height: 730px;
+}
+.flex1
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.superButtons
+{
+    background-color: azure;
+    border-radius: 12px;
+    height: 60px;
+    font-style: italic;
+    color:darkblue;
+    border-color: blueviolet;
+    font-size: 32px;
+    margin: 10px;
+}
